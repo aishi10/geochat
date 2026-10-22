@@ -1,0 +1,2 @@
+{"question_id": "0", "image": "images/test_000.jpg", "text": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify all visible BigEarthNet land-cover classes. Respond with a comma-separated list of class names."}
+{"question_id": "1", "image": "images/test_001.jpg", "text": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify all visible BigEarthNet land-cover classes. Respond with a comma-separated list of class names."}

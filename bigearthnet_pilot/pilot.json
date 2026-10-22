@@ -1,0 +1,142 @@
+[
+  {
+    "id": "S2A_MSIL2A_20170613T101031_N9999_R022_T33UUP_26_57",
+    "image": "images/pair_00000.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the paired Sentinel-1 SAR image on the left with the Sentinel-2 RGB image on the right. Identify the land-cover classes visible in the images."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Mixed forest, Pastures"
+      }
+    ]
+  },
+  {
+    "id": "S2A_MSIL2A_20170613T101031_N9999_R022_T33UUP_27_55",
+    "image": "images/pair_00001.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the paired Sentinel-1 SAR image on the left with the Sentinel-2 RGB image on the right. Identify the land-cover classes visible in the images."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Inland waters, Mixed forest"
+      }
+    ]
+  },
+  {
+    "id": "S2A_MSIL2A_20170613T101031_N9999_R022_T33UUP_27_56",
+    "image": "images/pair_00002.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the paired Sentinel-1 SAR image on the left with the Sentinel-2 RGB image on the right. Identify the land-cover classes visible in the images."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Coniferous forest, Inland waters, Mixed forest"
+      }
+    ]
+  },
+  {
+    "id": "S2A_MSIL2A_20170613T101031_N9999_R022_T33UUP_27_57",
+    "image": "images/pair_00003.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the paired Sentinel-1 SAR image on the left with the Sentinel-2 RGB image on the right. Identify the land-cover classes visible in the images."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Broad-leaved forest, Complex cultivation patterns, Coniferous forest, Inland waters, Mixed forest"
+      }
+    ]
+  },
+  {
+    "id": "S2A_MSIL2A_20170613T101031_N9999_R022_T33UUP_27_58",
+    "image": "images/pair_00004.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the paired Sentinel-1 SAR image on the left with the Sentinel-2 RGB image on the right. Identify the land-cover classes visible in the images."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Broad-leaved forest, Complex cultivation patterns, Inland waters, Land principally occupied by agriculture, with significant areas of natural vegetation"
+      }
+    ]
+  },
+  {
+    "id": "S2A_MSIL2A_20170613T101031_N9999_R022_T33UUP_27_59",
+    "image": "images/pair_00005.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the paired Sentinel-1 SAR image on the left with the Sentinel-2 RGB image on the right. Identify the land-cover classes visible in the images."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Broad-leaved forest, Complex cultivation patterns, Inland waters, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures"
+      }
+    ]
+  },
+  {
+    "id": "S2A_MSIL2A_20170613T101031_N9999_R022_T33UUP_27_60",
+    "image": "images/pair_00006.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the paired Sentinel-1 SAR image on the left with the Sentinel-2 RGB image on the right. Identify the land-cover classes visible in the images."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Broad-leaved forest, Complex cultivation patterns, Inland waters, Pastures"
+      }
+    ]
+  },
+  {
+    "id": "S2A_MSIL2A_20170613T101031_N9999_R022_T33UUP_27_61",
+    "image": "images/pair_00007.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the paired Sentinel-1 SAR image on the left with the Sentinel-2 RGB image on the right. Identify the land-cover classes visible in the images."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Broad-leaved forest, Inland waters, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "id": "S2A_MSIL2A_20170613T101031_N9999_R022_T33UUP_28_55",
+    "image": "images/pair_00008.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the paired Sentinel-1 SAR image on the left with the Sentinel-2 RGB image on the right. Identify the land-cover classes visible in the images."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Coniferous forest, Inland waters, Mixed forest, Pastures"
+      }
+    ]
+  },
+  {
+    "id": "S2A_MSIL2A_20170613T101031_N9999_R022_T33UUP_28_56",
+    "image": "images/pair_00009.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the paired Sentinel-1 SAR image on the left with the Sentinel-2 RGB image on the right. Identify the land-cover classes visible in the images."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Coniferous forest, Inland waters, Mixed forest, Pastures"
+      }
+    ]
+  }
+]

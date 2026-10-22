@@ -1,0 +1,5 @@
+Anaconda (miniconda3)
+bigearthnet_pilot
+demo_images
+geochat
+images

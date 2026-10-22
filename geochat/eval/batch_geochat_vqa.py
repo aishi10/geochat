@@ -28,7 +28,7 @@ def eval_model(args):
     # Model
     disable_torch_init()
     model_path = os.path.expanduser(args.model_path)
-    model_name = get_model_name_from_path(model_path)
+    model_name = "geochat-" + get_model_name_from_path(model_path)
     tokenizer, model, image_processor, context_len = load_pretrained_model(args.model_path, args.model_base, model_name)
     
     questions=[]
@@ -66,7 +66,16 @@ def eval_model(args):
             input_ids = tokenizer_image_token(prompt, tokenizer, IMAGE_TOKEN_INDEX, return_tensors='pt').unsqueeze(0).cuda()
             input_batch.append(input_ids)
 
-            image = Image.open(os.path.join(args.image_folder, image_file))
+            image = Image.open(os.path.join(args.image_folder, image_file)).convert("RGB")
+            # Match training preprocessing: pad non-square images to a square.
+            if getattr(model.config, "image_aspect_ratio", "pad") == "pad":
+                  width, height = image.size
+                  if width != height:
+                     side = max(width, height)
+                     background = tuple(int(x * 255) for x in image_processor.image_mean)
+                     square = Image.new("RGB", (side, side), background)
+                     square.paste(image, ((side - width) // 2, (side - height) // 2))
+                     image = square
 
             image_folder.append(image)
 

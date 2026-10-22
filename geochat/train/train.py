@@ -107,9 +107,9 @@ class TrainingArguments(transformers.TrainingArguments):
 
 
 def maybe_zero_3(param, ignore_status=False, name=None):
-    from deepspeed import zero
-    from deepspeed.runtime.zero.partition_parameters import ZeroParamStatus
     if hasattr(param, "ds_id"):
+        from deepspeed import zero
+        from deepspeed.runtime.zero.partition_parameters import ZeroParamStatus
         if param.ds_status == ZeroParamStatus.NOT_AVAILABLE:
             if not ignore_status:
                 logging.warning(f"{name}: param.ds_status != ZeroParamStatus.NOT_AVAILABLE: {param.ds_status}")
@@ -779,6 +779,7 @@ def train():
                 load_in_8bit=training_args.bits == 8,
                 llm_int8_threshold=6.0,
                 llm_int8_has_fp16_weight=False,
+                llm_int8_skip_modules=["mm_projector"],
                 bnb_4bit_compute_dtype=compute_dtype,
                 bnb_4bit_use_double_quant=training_args.double_quant,
                 bnb_4bit_quant_type=training_args.quant_type # {'fp4', 'nf4'}

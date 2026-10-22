@@ -1,0 +1,11 @@
+Class,Precision,Recall,F1,Reference_count,Predicted_count
+Arable land,0.75,1.0,0.857,75,100
+Broad-leaved forest,0.0,0.0,0.0,48,0
+Coniferous forest,0.43,1.0,0.601,43,100
+Mixed forest,0.0,0.0,0.0,32,0
+Pastures,0.74,1.0,0.851,74,100
+Inland waters,0.0,0.0,0.0,35,0
+Complex cultivation patterns,0.37,1.0,0.54,37,100
+"Land principally occupied by agriculture, with significant areas of natural vegetation",0.0,0.0,0.0,40,0
+Industrial or commercial units,0.0,0.0,0.0,7,0
+Urban fabric,0.0,0.0,0.0,48,0

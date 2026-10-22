@@ -1,0 +1,502 @@
+[
+  {
+    "question_id": "0",
+    "image": "images/test_000.jpg",
+    "reference": "Arable land, Broad-leaved forest, Mixed forest, Pastures"
+  },
+  {
+    "question_id": "1",
+    "image": "images/test_001.jpg",
+    "reference": "Arable land, Broad-leaved forest, Inland waters, Mixed forest"
+  },
+  {
+    "question_id": "2",
+    "image": "images/test_002.jpg",
+    "reference": "Arable land, Broad-leaved forest, Coniferous forest, Inland waters, Mixed forest"
+  },
+  {
+    "question_id": "3",
+    "image": "images/test_003.jpg",
+    "reference": "Broad-leaved forest, Complex cultivation patterns, Coniferous forest, Inland waters, Mixed forest"
+  },
+  {
+    "question_id": "4",
+    "image": "images/test_004.jpg",
+    "reference": "Broad-leaved forest, Complex cultivation patterns, Inland waters, Land principally occupied by agriculture, with significant areas of natural vegetation"
+  },
+  {
+    "question_id": "5",
+    "image": "images/test_005.jpg",
+    "reference": "Broad-leaved forest, Complex cultivation patterns, Inland waters, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures"
+  },
+  {
+    "question_id": "6",
+    "image": "images/test_006.jpg",
+    "reference": "Broad-leaved forest, Complex cultivation patterns, Inland waters, Pastures"
+  },
+  {
+    "question_id": "7",
+    "image": "images/test_007.jpg",
+    "reference": "Broad-leaved forest, Inland waters, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "8",
+    "image": "images/test_008.jpg",
+    "reference": "Arable land, Broad-leaved forest, Coniferous forest, Inland waters, Mixed forest, Pastures"
+  },
+  {
+    "question_id": "9",
+    "image": "images/test_009.jpg",
+    "reference": "Coniferous forest, Inland waters, Mixed forest, Pastures"
+  },
+  {
+    "question_id": "10",
+    "image": "images/test_010.jpg",
+    "reference": "Complex cultivation patterns, Coniferous forest"
+  },
+  {
+    "question_id": "11",
+    "image": "images/test_011.jpg",
+    "reference": "Arable land, Broad-leaved forest, Complex cultivation patterns, Coniferous forest, Land principally occupied by agriculture, with significant areas of natural vegetation, Urban fabric"
+  },
+  {
+    "question_id": "12",
+    "image": "images/test_012.jpg",
+    "reference": "Arable land, Broad-leaved forest, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "13",
+    "image": "images/test_013.jpg",
+    "reference": "Broad-leaved forest, Complex cultivation patterns, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures"
+  },
+  {
+    "question_id": "14",
+    "image": "images/test_014.jpg",
+    "reference": "Broad-leaved forest, Complex cultivation patterns, Inland waters, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "15",
+    "image": "images/test_015.jpg",
+    "reference": "Arable land, Broad-leaved forest, Inland waters, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "16",
+    "image": "images/test_016.jpg",
+    "reference": "Broad-leaved forest, Coniferous forest, Inland waters, Mixed forest, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "17",
+    "image": "images/test_017.jpg",
+    "reference": "Broad-leaved forest, Coniferous forest, Inland waters, Mixed forest, Pastures"
+  },
+  {
+    "question_id": "18",
+    "image": "images/test_018.jpg",
+    "reference": "Coniferous forest"
+  },
+  {
+    "question_id": "19",
+    "image": "images/test_019.jpg",
+    "reference": "Arable land, Coniferous forest, Land principally occupied by agriculture, with significant areas of natural vegetation, Urban fabric"
+  },
+  {
+    "question_id": "20",
+    "image": "images/test_020.jpg",
+    "reference": "Arable land, Broad-leaved forest, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "21",
+    "image": "images/test_021.jpg",
+    "reference": "Arable land, Broad-leaved forest, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures"
+  },
+  {
+    "question_id": "22",
+    "image": "images/test_022.jpg",
+    "reference": "Arable land, Broad-leaved forest, Complex cultivation patterns, Pastures"
+  },
+  {
+    "question_id": "23",
+    "image": "images/test_023.jpg",
+    "reference": "Arable land, Broad-leaved forest, Complex cultivation patterns, Inland waters, Pastures"
+  },
+  {
+    "question_id": "24",
+    "image": "images/test_024.jpg",
+    "reference": "Arable land, Broad-leaved forest, Inland waters, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "25",
+    "image": "images/test_025.jpg",
+    "reference": "Arable land, Broad-leaved forest, Industrial or commercial units, Inland waters, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "26",
+    "image": "images/test_026.jpg",
+    "reference": "Broad-leaved forest, Complex cultivation patterns, Inland waters, Land principally occupied by agriculture, with significant areas of natural vegetation, Mixed forest, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "27",
+    "image": "images/test_027.jpg",
+    "reference": "Broad-leaved forest, Complex cultivation patterns, Coniferous forest, Inland waters, Land principally occupied by agriculture, with significant areas of natural vegetation, Mixed forest, Pastures"
+  },
+  {
+    "question_id": "28",
+    "image": "images/test_028.jpg",
+    "reference": "Coniferous forest"
+  },
+  {
+    "question_id": "29",
+    "image": "images/test_029.jpg",
+    "reference": "Coniferous forest"
+  },
+  {
+    "question_id": "30",
+    "image": "images/test_030.jpg",
+    "reference": "Arable land, Coniferous forest, Pastures"
+  },
+  {
+    "question_id": "31",
+    "image": "images/test_031.jpg",
+    "reference": "Arable land, Complex cultivation patterns, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "32",
+    "image": "images/test_032.jpg",
+    "reference": "Arable land, Complex cultivation patterns, Mixed forest, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "33",
+    "image": "images/test_033.jpg",
+    "reference": "Arable land, Broad-leaved forest, Mixed forest, Pastures"
+  },
+  {
+    "question_id": "34",
+    "image": "images/test_034.jpg",
+    "reference": "Arable land, Broad-leaved forest, Pastures"
+  },
+  {
+    "question_id": "35",
+    "image": "images/test_035.jpg",
+    "reference": "Arable land, Broad-leaved forest, Inland waters, Pastures"
+  },
+  {
+    "question_id": "36",
+    "image": "images/test_036.jpg",
+    "reference": "Arable land, Broad-leaved forest, Inland waters, Mixed forest, Pastures"
+  },
+  {
+    "question_id": "37",
+    "image": "images/test_037.jpg",
+    "reference": "Arable land, Broad-leaved forest, Industrial or commercial units, Inland waters, Land principally occupied by agriculture, with significant areas of natural vegetation, Mixed forest, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "38",
+    "image": "images/test_038.jpg",
+    "reference": "Arable land, Complex cultivation patterns, Land principally occupied by agriculture, with significant areas of natural vegetation, Mixed forest, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "39",
+    "image": "images/test_039.jpg",
+    "reference": "Arable land, Complex cultivation patterns, Coniferous forest, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "40",
+    "image": "images/test_040.jpg",
+    "reference": "Coniferous forest, Pastures"
+  },
+  {
+    "question_id": "41",
+    "image": "images/test_041.jpg",
+    "reference": "Coniferous forest"
+  },
+  {
+    "question_id": "42",
+    "image": "images/test_042.jpg",
+    "reference": "Arable land, Coniferous forest, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures"
+  },
+  {
+    "question_id": "43",
+    "image": "images/test_043.jpg",
+    "reference": "Arable land, Complex cultivation patterns, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "44",
+    "image": "images/test_044.jpg",
+    "reference": "Arable land, Broad-leaved forest, Complex cultivation patterns, Mixed forest, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "45",
+    "image": "images/test_045.jpg",
+    "reference": "Arable land, Broad-leaved forest, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "46",
+    "image": "images/test_046.jpg",
+    "reference": "Arable land, Broad-leaved forest, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "47",
+    "image": "images/test_047.jpg",
+    "reference": "Arable land, Broad-leaved forest, Complex cultivation patterns, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "48",
+    "image": "images/test_048.jpg",
+    "reference": "Broad-leaved forest, Complex cultivation patterns, Inland waters, Mixed forest, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "49",
+    "image": "images/test_049.jpg",
+    "reference": "Arable land, Broad-leaved forest, Inland waters, Mixed forest, Pastures"
+  },
+  {
+    "question_id": "50",
+    "image": "images/test_050.jpg",
+    "reference": "Arable land, Broad-leaved forest, Industrial or commercial units, Inland waters, Mixed forest, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "51",
+    "image": "images/test_051.jpg",
+    "reference": "Arable land, Broad-leaved forest, Industrial or commercial units, Inland waters, Mixed forest, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "52",
+    "image": "images/test_052.jpg",
+    "reference": "Arable land, Complex cultivation patterns, Land principally occupied by agriculture, with significant areas of natural vegetation, Mixed forest, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "53",
+    "image": "images/test_053.jpg",
+    "reference": "Arable land, Complex cultivation patterns, Pastures"
+  },
+  {
+    "question_id": "54",
+    "image": "images/test_054.jpg",
+    "reference": "Arable land, Coniferous forest, Pastures"
+  },
+  {
+    "question_id": "55",
+    "image": "images/test_055.jpg",
+    "reference": "Coniferous forest"
+  },
+  {
+    "question_id": "56",
+    "image": "images/test_056.jpg",
+    "reference": "Arable land, Coniferous forest, Pastures"
+  },
+  {
+    "question_id": "57",
+    "image": "images/test_057.jpg",
+    "reference": "Arable land, Coniferous forest, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "58",
+    "image": "images/test_058.jpg",
+    "reference": "Arable land, Coniferous forest, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "59",
+    "image": "images/test_059.jpg",
+    "reference": "Arable land, Land principally occupied by agriculture, with significant areas of natural vegetation, Mixed forest, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "60",
+    "image": "images/test_060.jpg",
+    "reference": "Arable land, Complex cultivation patterns, Mixed forest, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "61",
+    "image": "images/test_061.jpg",
+    "reference": "Arable land, Complex cultivation patterns, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "62",
+    "image": "images/test_062.jpg",
+    "reference": "Arable land, Broad-leaved forest, Complex cultivation patterns, Industrial or commercial units, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "63",
+    "image": "images/test_063.jpg",
+    "reference": "Arable land, Broad-leaved forest, Industrial or commercial units, Inland waters, Land principally occupied by agriculture, with significant areas of natural vegetation, Mixed forest, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "64",
+    "image": "images/test_064.jpg",
+    "reference": "Arable land, Broad-leaved forest, Inland waters, Mixed forest, Pastures"
+  },
+  {
+    "question_id": "65",
+    "image": "images/test_065.jpg",
+    "reference": "Arable land, Broad-leaved forest, Coniferous forest, Industrial or commercial units, Inland waters, Urban fabric"
+  },
+  {
+    "question_id": "66",
+    "image": "images/test_066.jpg",
+    "reference": "Arable land, Broad-leaved forest, Complex cultivation patterns, Coniferous forest, Inland waters, Land principally occupied by agriculture, with significant areas of natural vegetation, Mixed forest, Urban fabric"
+  },
+  {
+    "question_id": "67",
+    "image": "images/test_067.jpg",
+    "reference": "Arable land, Complex cultivation patterns, Land principally occupied by agriculture, with significant areas of natural vegetation, Urban fabric"
+  },
+  {
+    "question_id": "68",
+    "image": "images/test_068.jpg",
+    "reference": "Arable land, Complex cultivation patterns"
+  },
+  {
+    "question_id": "69",
+    "image": "images/test_069.jpg",
+    "reference": "Arable land, Complex cultivation patterns, Pastures"
+  },
+  {
+    "question_id": "70",
+    "image": "images/test_070.jpg",
+    "reference": "Arable land, Coniferous forest, Pastures"
+  },
+  {
+    "question_id": "71",
+    "image": "images/test_071.jpg",
+    "reference": "Coniferous forest"
+  },
+  {
+    "question_id": "72",
+    "image": "images/test_072.jpg",
+    "reference": "Coniferous forest"
+  },
+  {
+    "question_id": "73",
+    "image": "images/test_073.jpg",
+    "reference": "Arable land, Coniferous forest, Pastures"
+  },
+  {
+    "question_id": "74",
+    "image": "images/test_074.jpg",
+    "reference": "Arable land, Coniferous forest, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures"
+  },
+  {
+    "question_id": "75",
+    "image": "images/test_075.jpg",
+    "reference": "Arable land, Coniferous forest, Land principally occupied by agriculture, with significant areas of natural vegetation, Mixed forest, Pastures"
+  },
+  {
+    "question_id": "76",
+    "image": "images/test_076.jpg",
+    "reference": "Arable land, Coniferous forest, Land principally occupied by agriculture, with significant areas of natural vegetation, Mixed forest, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "77",
+    "image": "images/test_077.jpg",
+    "reference": "Arable land, Complex cultivation patterns, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "78",
+    "image": "images/test_078.jpg",
+    "reference": "Arable land, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures"
+  },
+  {
+    "question_id": "79",
+    "image": "images/test_079.jpg",
+    "reference": "Arable land, Broad-leaved forest, Complex cultivation patterns, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "80",
+    "image": "images/test_080.jpg",
+    "reference": "Arable land, Broad-leaved forest, Complex cultivation patterns, Inland waters, Land principally occupied by agriculture, with significant areas of natural vegetation, Mixed forest, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "81",
+    "image": "images/test_081.jpg",
+    "reference": "Arable land, Broad-leaved forest, Inland waters, Land principally occupied by agriculture, with significant areas of natural vegetation, Mixed forest"
+  },
+  {
+    "question_id": "82",
+    "image": "images/test_082.jpg",
+    "reference": "Arable land, Broad-leaved forest, Inland waters, Mixed forest, Pastures"
+  },
+  {
+    "question_id": "83",
+    "image": "images/test_083.jpg",
+    "reference": "Arable land, Broad-leaved forest, Complex cultivation patterns, Inland waters, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "84",
+    "image": "images/test_084.jpg",
+    "reference": "Arable land, Broad-leaved forest, Coniferous forest, Inland waters, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "85",
+    "image": "images/test_085.jpg",
+    "reference": "Arable land, Coniferous forest, Inland waters, Urban fabric"
+  },
+  {
+    "question_id": "86",
+    "image": "images/test_086.jpg",
+    "reference": "Arable land, Complex cultivation patterns, Coniferous forest, Land principally occupied by agriculture, with significant areas of natural vegetation, Urban fabric"
+  },
+  {
+    "question_id": "87",
+    "image": "images/test_087.jpg",
+    "reference": "Arable land, Complex cultivation patterns, Land principally occupied by agriculture, with significant areas of natural vegetation"
+  },
+  {
+    "question_id": "88",
+    "image": "images/test_088.jpg",
+    "reference": "Arable land, Complex cultivation patterns"
+  },
+  {
+    "question_id": "89",
+    "image": "images/test_089.jpg",
+    "reference": "Arable land, Complex cultivation patterns, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "90",
+    "image": "images/test_090.jpg",
+    "reference": "Arable land, Coniferous forest, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "91",
+    "image": "images/test_091.jpg",
+    "reference": "Coniferous forest"
+  },
+  {
+    "question_id": "92",
+    "image": "images/test_092.jpg",
+    "reference": "Coniferous forest"
+  },
+  {
+    "question_id": "93",
+    "image": "images/test_093.jpg",
+    "reference": "Coniferous forest"
+  },
+  {
+    "question_id": "94",
+    "image": "images/test_094.jpg",
+    "reference": "Arable land, Coniferous forest, Pastures"
+  },
+  {
+    "question_id": "95",
+    "image": "images/test_095.jpg",
+    "reference": "Arable land, Coniferous forest, Pastures"
+  },
+  {
+    "question_id": "96",
+    "image": "images/test_096.jpg",
+    "reference": "Arable land, Coniferous forest, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "97",
+    "image": "images/test_097.jpg",
+    "reference": "Arable land, Coniferous forest, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures, Urban fabric"
+  },
+  {
+    "question_id": "98",
+    "image": "images/test_098.jpg",
+    "reference": "Arable land, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures"
+  },
+  {
+    "question_id": "99",
+    "image": "images/test_099.jpg",
+    "reference": "Arable land, Land principally occupied by agriculture, with significant areas of natural vegetation, Mixed forest, Pastures, Urban fabric"
+  }
+]

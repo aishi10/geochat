@@ -1,0 +1,1302 @@
+[
+  {
+    "image": "images/test_000.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Mixed forest, Pastures"
+      }
+    ]
+  },
+  {
+    "image": "images/test_001.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Inland waters, Mixed forest"
+      }
+    ]
+  },
+  {
+    "image": "images/test_002.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Coniferous forest, Inland waters, Mixed forest"
+      }
+    ]
+  },
+  {
+    "image": "images/test_003.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Broad-leaved forest, Complex cultivation patterns, Coniferous forest, Inland waters, Mixed forest"
+      }
+    ]
+  },
+  {
+    "image": "images/test_004.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Broad-leaved forest, Complex cultivation patterns, Inland waters, Land principally occupied by agriculture, with significant areas of natural vegetation"
+      }
+    ]
+  },
+  {
+    "image": "images/test_005.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Broad-leaved forest, Complex cultivation patterns, Inland waters, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures"
+      }
+    ]
+  },
+  {
+    "image": "images/test_006.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Broad-leaved forest, Complex cultivation patterns, Inland waters, Pastures"
+      }
+    ]
+  },
+  {
+    "image": "images/test_007.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Broad-leaved forest, Inland waters, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_008.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Coniferous forest, Inland waters, Mixed forest, Pastures"
+      }
+    ]
+  },
+  {
+    "image": "images/test_009.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Coniferous forest, Inland waters, Mixed forest, Pastures"
+      }
+    ]
+  },
+  {
+    "image": "images/test_010.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Complex cultivation patterns, Coniferous forest"
+      }
+    ]
+  },
+  {
+    "image": "images/test_011.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Complex cultivation patterns, Coniferous forest, Land principally occupied by agriculture, with significant areas of natural vegetation, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_012.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_013.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Broad-leaved forest, Complex cultivation patterns, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures"
+      }
+    ]
+  },
+  {
+    "image": "images/test_014.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Broad-leaved forest, Complex cultivation patterns, Inland waters, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_015.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Inland waters, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_016.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Broad-leaved forest, Coniferous forest, Inland waters, Mixed forest, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_017.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Broad-leaved forest, Coniferous forest, Inland waters, Mixed forest, Pastures"
+      }
+    ]
+  },
+  {
+    "image": "images/test_018.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Coniferous forest"
+      }
+    ]
+  },
+  {
+    "image": "images/test_019.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Coniferous forest, Land principally occupied by agriculture, with significant areas of natural vegetation, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_020.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_021.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures"
+      }
+    ]
+  },
+  {
+    "image": "images/test_022.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Complex cultivation patterns, Pastures"
+      }
+    ]
+  },
+  {
+    "image": "images/test_023.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Complex cultivation patterns, Inland waters, Pastures"
+      }
+    ]
+  },
+  {
+    "image": "images/test_024.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Inland waters, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_025.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Industrial or commercial units, Inland waters, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_026.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Broad-leaved forest, Complex cultivation patterns, Inland waters, Land principally occupied by agriculture, with significant areas of natural vegetation, Mixed forest, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_027.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Broad-leaved forest, Complex cultivation patterns, Coniferous forest, Inland waters, Land principally occupied by agriculture, with significant areas of natural vegetation, Mixed forest, Pastures"
+      }
+    ]
+  },
+  {
+    "image": "images/test_028.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Coniferous forest"
+      }
+    ]
+  },
+  {
+    "image": "images/test_029.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Coniferous forest"
+      }
+    ]
+  },
+  {
+    "image": "images/test_030.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Coniferous forest, Pastures"
+      }
+    ]
+  },
+  {
+    "image": "images/test_031.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Complex cultivation patterns, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_032.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Complex cultivation patterns, Mixed forest, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_033.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Mixed forest, Pastures"
+      }
+    ]
+  },
+  {
+    "image": "images/test_034.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Pastures"
+      }
+    ]
+  },
+  {
+    "image": "images/test_035.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Inland waters, Pastures"
+      }
+    ]
+  },
+  {
+    "image": "images/test_036.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Inland waters, Mixed forest, Pastures"
+      }
+    ]
+  },
+  {
+    "image": "images/test_037.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Industrial or commercial units, Inland waters, Land principally occupied by agriculture, with significant areas of natural vegetation, Mixed forest, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_038.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Complex cultivation patterns, Land principally occupied by agriculture, with significant areas of natural vegetation, Mixed forest, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_039.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Complex cultivation patterns, Coniferous forest, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_040.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Coniferous forest, Pastures"
+      }
+    ]
+  },
+  {
+    "image": "images/test_041.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Coniferous forest"
+      }
+    ]
+  },
+  {
+    "image": "images/test_042.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Coniferous forest, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures"
+      }
+    ]
+  },
+  {
+    "image": "images/test_043.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Complex cultivation patterns, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_044.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Complex cultivation patterns, Mixed forest, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_045.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_046.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_047.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Complex cultivation patterns, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_048.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Broad-leaved forest, Complex cultivation patterns, Inland waters, Mixed forest, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_049.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Inland waters, Mixed forest, Pastures"
+      }
+    ]
+  },
+  {
+    "image": "images/test_050.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Industrial or commercial units, Inland waters, Mixed forest, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_051.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Industrial or commercial units, Inland waters, Mixed forest, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_052.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Complex cultivation patterns, Land principally occupied by agriculture, with significant areas of natural vegetation, Mixed forest, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_053.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Complex cultivation patterns, Pastures"
+      }
+    ]
+  },
+  {
+    "image": "images/test_054.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Coniferous forest, Pastures"
+      }
+    ]
+  },
+  {
+    "image": "images/test_055.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Coniferous forest"
+      }
+    ]
+  },
+  {
+    "image": "images/test_056.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Coniferous forest, Pastures"
+      }
+    ]
+  },
+  {
+    "image": "images/test_057.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Coniferous forest, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_058.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Coniferous forest, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_059.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Land principally occupied by agriculture, with significant areas of natural vegetation, Mixed forest, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_060.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Complex cultivation patterns, Mixed forest, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_061.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Complex cultivation patterns, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_062.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Complex cultivation patterns, Industrial or commercial units, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_063.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Industrial or commercial units, Inland waters, Land principally occupied by agriculture, with significant areas of natural vegetation, Mixed forest, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_064.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Inland waters, Mixed forest, Pastures"
+      }
+    ]
+  },
+  {
+    "image": "images/test_065.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Coniferous forest, Industrial or commercial units, Inland waters, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_066.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Complex cultivation patterns, Coniferous forest, Inland waters, Land principally occupied by agriculture, with significant areas of natural vegetation, Mixed forest, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_067.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Complex cultivation patterns, Land principally occupied by agriculture, with significant areas of natural vegetation, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_068.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Complex cultivation patterns"
+      }
+    ]
+  },
+  {
+    "image": "images/test_069.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Complex cultivation patterns, Pastures"
+      }
+    ]
+  },
+  {
+    "image": "images/test_070.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Coniferous forest, Pastures"
+      }
+    ]
+  },
+  {
+    "image": "images/test_071.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Coniferous forest"
+      }
+    ]
+  },
+  {
+    "image": "images/test_072.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Coniferous forest"
+      }
+    ]
+  },
+  {
+    "image": "images/test_073.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Coniferous forest, Pastures"
+      }
+    ]
+  },
+  {
+    "image": "images/test_074.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Coniferous forest, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures"
+      }
+    ]
+  },
+  {
+    "image": "images/test_075.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Coniferous forest, Land principally occupied by agriculture, with significant areas of natural vegetation, Mixed forest, Pastures"
+      }
+    ]
+  },
+  {
+    "image": "images/test_076.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Coniferous forest, Land principally occupied by agriculture, with significant areas of natural vegetation, Mixed forest, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_077.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Complex cultivation patterns, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_078.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures"
+      }
+    ]
+  },
+  {
+    "image": "images/test_079.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Complex cultivation patterns, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_080.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Complex cultivation patterns, Inland waters, Land principally occupied by agriculture, with significant areas of natural vegetation, Mixed forest, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_081.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Inland waters, Land principally occupied by agriculture, with significant areas of natural vegetation, Mixed forest"
+      }
+    ]
+  },
+  {
+    "image": "images/test_082.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Inland waters, Mixed forest, Pastures"
+      }
+    ]
+  },
+  {
+    "image": "images/test_083.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Complex cultivation patterns, Inland waters, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_084.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Broad-leaved forest, Coniferous forest, Inland waters, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_085.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Coniferous forest, Inland waters, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_086.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Complex cultivation patterns, Coniferous forest, Land principally occupied by agriculture, with significant areas of natural vegetation, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_087.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Complex cultivation patterns, Land principally occupied by agriculture, with significant areas of natural vegetation"
+      }
+    ]
+  },
+  {
+    "image": "images/test_088.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Complex cultivation patterns"
+      }
+    ]
+  },
+  {
+    "image": "images/test_089.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Complex cultivation patterns, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_090.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Coniferous forest, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_091.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Coniferous forest"
+      }
+    ]
+  },
+  {
+    "image": "images/test_092.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Coniferous forest"
+      }
+    ]
+  },
+  {
+    "image": "images/test_093.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Coniferous forest"
+      }
+    ]
+  },
+  {
+    "image": "images/test_094.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Coniferous forest, Pastures"
+      }
+    ]
+  },
+  {
+    "image": "images/test_095.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Coniferous forest, Pastures"
+      }
+    ]
+  },
+  {
+    "image": "images/test_096.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Coniferous forest, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_097.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Coniferous forest, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures, Urban fabric"
+      }
+    ]
+  },
+  {
+    "image": "images/test_098.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Land principally occupied by agriculture, with significant areas of natural vegetation, Pastures"
+      }
+    ]
+  },
+  {
+    "image": "images/test_099.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the Sentinel-1 SAR (VV) image on the left with the Sentinel-2 RGB image on the right. Identify the reference land-cover classes."
+      },
+      {
+        "from": "gpt",
+        "value": "BigEarthNet reference labels: Arable land, Land principally occupied by agriculture, with significant areas of natural vegetation, Mixed forest, Pastures, Urban fabric"
+      }
+    ]
+  }
+]
